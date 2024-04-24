@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 옵시디언 테스트하기
-categories: 
+categories: obsidian
 comments: true
 tags:
 ---
