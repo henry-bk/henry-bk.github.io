@@ -6,5 +6,7 @@
   "attachmentFolderPath": "images",
   "userIgnoreFilters": [
     "_site/"
-  ]
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Henry"
 }
