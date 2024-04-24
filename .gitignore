@@ -1,6 +1,12 @@
+#jekyll setup
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+#obsidian setup
 .obsidian/workspace.json
+
+#personal uses
+Henry/

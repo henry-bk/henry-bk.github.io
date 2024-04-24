@@ -43,6 +43,7 @@ permalink: /:categories/:title
 # their entries' file path in the `include:` list.
 #
 exclude:
+  - Henry/
   - templates/
   - .sass-cache/
   - .jekyll-cache/

@@ -3,5 +3,8 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "userIgnoreFilters": [
+    "_site/"
+  ]
 }
