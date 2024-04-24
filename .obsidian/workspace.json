@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "daa743f001fb8b87",
+        "id": "e4d0314725457054",
         "type": "tabs",
         "children": [
           {
-            "id": "abceebe06e80f75d",
+            "id": "3936c42c005830b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_posts/2024-04-24-obsidian_test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_posts/2024-04-24-obsidian_test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_posts/2024-04-24-obsidian_test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_posts/2024-04-24-obsidian_test.md"
               }
             }
           }
@@ -146,16 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abceebe06e80f75d",
+  "active": "3936c42c005830b7",
   "lastOpenFiles": [
-    "_posts/obsidian_test.md",
-    "2024-04-24.md",
-    "README.md",
-    "Untitled",
+    "_posts/_2024-04-24-welcome-to-jekyll.markdown",
     "templates/default_jekyll.md",
+    "_posts/2024-04-24-obsidian_test.md",
+    "_site/obsidian_test.html",
+    "_site/images/스크린샷 2024-04-09 오후 11.36.31.png",
+    "_site/images",
+    "images/스크린샷 2024-04-09 오후 11.36.31.png",
+    "_site/welcome-to-jekyll.html",
+    "_posts/2024-04-24-welcome-to-jekyll.markdown",
+    "_posts/2024-04-24--welcome-to-jekyll.markdown",
+    "_site/jekyll/update/welcome-to-jekyll.html",
+    "_site/jekyll/update",
+    "_site/jekyll",
+    "_posts/obsidian_test.md",
+    "_posts/welcome-to-jekyll.markdown",
+    "_site/2024/04/24/obsidian_test.html",
+    "_site/2024-04-24.md",
+    "README.md",
+    "Untitled.md",
+    "_site/Untitled.md",
+    "_posts/obsidian-test.md",
+    "_posts/2024-04-24-obsidian-test.md",
+    "_posts/obsidian_test.Md",
+    "_site/assets/minima-social-icons.svg",
+    "_site/README.md",
     "Untitled.canvas",
-    "templates",
-    "_posts/안녕하세요.md",
-    "images"
+    "_posts/안녕하세요.md"
   ]
 }
