@@ -1,7 +1,7 @@
 ---
+layout: page
 title: 
-categories: []
+categories: 
 comments: true
-tags:
+tags: 
 ---
-Hello
